@@ -48,8 +48,8 @@ This repository provides an Bash script (`numa_test.sh`) to automate NUMA policy
 1. **Clone this repository** and make the script executable:
 
    ```bash
-   git clone <repo_url>
-   cd <repo_dir>
+   git clone git@github.com:Lorickh/NUMA_autotest.git
+   cd git@github.com:Lorickh/NUMA_autotest.git
    chmod +x numa_test.sh
    ```
 
