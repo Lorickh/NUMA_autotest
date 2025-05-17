@@ -1,6 +1,6 @@
 # NUMA Performance Test Framework
 
-This repository provides an industrial-grade Bash script (`numa_test.sh`) to automate NUMA policy benchmarking on Linux systems. The script iterates over CPU binding, memory binding, and interleaving configurations, runs real-world workloads under each policy, and captures comprehensive logs for post-analysis.
+This repository provides an Bash script (`numa_test.sh`) to automate NUMA policy benchmarking on Linux systems. The script iterates over CPU binding, memory binding, and interleaving configurations, runs real-world workloads under each policy, and captures comprehensive logs for post-analysis.
 
 ---
 
